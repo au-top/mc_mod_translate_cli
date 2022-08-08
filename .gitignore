@@ -1,0 +1,4 @@
+node_modules
+dist
+/*.jar
+config.yaml
