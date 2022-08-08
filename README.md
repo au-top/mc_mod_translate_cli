@@ -39,7 +39,9 @@ npm install -g
 ```
 
 from global call script
-
+```
+mc_mod_translate --help
+```
 
 ### transform jar (Recommended)
 
